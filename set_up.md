@@ -36,6 +36,7 @@ Video > Video track > Disable
 
 HERE , VLC and audio controller consumes only 9.2% CPU 
 indeed, this is lightweight and efficient, and you also have playback controls in VLC to skip to where you want (no need to resort to terminal unnecesary)
+put it on another desktop workplace , and forget about having interrupted music
 
 
 ![alt text](https://github.com/kraken-gz/vigilant-octo-memory/blob/main/good_to_go.png?raw=true)
