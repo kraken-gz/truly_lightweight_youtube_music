@@ -1,5 +1,5 @@
 
-Linux:
+```Linux:```
 
 find path:
 ```locate youtube.luac```
@@ -11,7 +11,7 @@ copy content od ```youtube.7z``` in that location (which you found) replacing it
 
 
 
-Windows:
+```Windows:```
 
 Rename the downloaded youtube.lua file to youtube.luac
 
@@ -20,7 +20,7 @@ Now copy this file and paste it to C:\Program Files (x86)\VideoLAN\VLC\lua\playl
 
 ---------------
 
-to stream youtube music, via vlc-a , you need to set this up first. (this written above)
+To stream youtube music, via vlc-a , you need to set this up first. (this written above)
 
 and then
 
