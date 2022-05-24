@@ -1,42 +1,44 @@
 
 Linux:
 
-pronadji:
+find path:
 ```locate youtube.luac```
 
 
 
-prebaci content od ```youtube.7z``` u tu lokaciju (koju si pronašao) zamenjujući ga 
+copy content od ```youtube.7z``` in that location (which you found) replacing it
 
 
-windows:
+
+
+Windows:
 
 Rename the downloaded youtube.lua file to youtube.luac
+
 Now copy this file and paste it to C:\Program Files (x86)\VideoLAN\VLC\lua\playlist\
 
 
 ---------------
 
-da streamujes youtube music, preko vlc-a , treba da namestis prvo ovo gore.
+to stream youtube music, via vlc-a , you need to set this up first. (this written above)
 
-a zatim
+and then
 
 Media > Open Capture Device > Network
 
-stavi link od muzike
+put a link from the music
 i ```Play```
 
-pušta video i zvuk
+plays video and audio
 
-da bude samo zvuk, idi na:
+to be just sound, go to:
 
 Video > Video track > Disable
 
 ---------------
 
 HERE , VLC and audio controller consumes only 9.2% CPU 
-indeed, this is lightweight and efficient, and you also have playback controls in VLC to skip to where you want (no need to resort to terminal unnecesary)
-put it on another desktop workplace , and forget about having interrupted music
+indeed, this is lightweight and efficient
 
 
 ![alt text](https://github.com/kraken-gz/vigilant-octo-memory/blob/main/good_to_go.png?raw=true)
