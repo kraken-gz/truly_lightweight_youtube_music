@@ -24,7 +24,7 @@ To stream youtube music, via vlc-a , you need to set this up first. (this writte
 
 and then
 
-Media > Open Capture Device > Network
+```Media > Open Capture Device > Network```
 
 put a link from the music
 i ```Play```
@@ -33,7 +33,7 @@ plays video and audio
 
 to be just sound, go to:
 
-Video > Video track > Disable
+```Video > Video track > Disable```
 
 ---------------
 
